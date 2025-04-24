@@ -33,10 +33,12 @@ body {
   --orange: #e87d3e;
   --red: #e83e3e;
   --purple: #9e86c8;
+  --tealgreen: #1d694b;
+  --lightblue: #839EC5;
 
   --h1-color: var(--text-normal);
   --h2-color: var(--text-normal);
-  --h3-color: var(--blue);
+  --h3-color: var(--lightblue);
   --h4-color: var(--yellow);
   --h5-color: var(--red);
   --h6-color: var(--text-muted);
